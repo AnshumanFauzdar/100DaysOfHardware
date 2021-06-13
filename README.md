@@ -21,6 +21,8 @@ Main motive of this program will be:
 
 All the posts will be done on my [twitter account](https://twitter.com/anshumanfauzdar) with hashtag ```#100DaysOfHardware``` and ```#100DaysOfElectronics```
 
+![tweet](https://user-images.githubusercontent.com/40523329/121813169-737b2180-cc88-11eb-9d8d-b3b5fd081ab1.png)
+
 Join me in this journey!
 
 After approx 100 Days you will be brushed up with basic knowledge of topics mentioned above and can apply to any field as per requirement.
