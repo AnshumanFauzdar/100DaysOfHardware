@@ -21,7 +21,7 @@ Main motive of this program will be:
 
 All the posts will be done on my [twitter account](https://twitter.com/anshumanfauzdar) with hashtag ```#100DaysOfHardware``` and ```#100DaysOfElectronics```
 
-![tweet](https://user-images.githubusercontent.com/40523329/121813169-737b2180-cc88-11eb-9d8d-b3b5fd081ab1.png)
+![tweet](https://user-images.githubusercontent.com/40523329/126989611-d01ce2be-dbd9-4d24-b3f3-61f53965b072.png)
 
 Join me in this journey!
 
