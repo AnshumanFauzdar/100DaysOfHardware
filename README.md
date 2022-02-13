@@ -29,7 +29,7 @@ After approx 100 Days you will be brushed up with basic knowledge of topics ment
 
 I will make projects according to hardware, electronics availability, you can modify according to your use!
 
-Initial Credits : 100daysofhardware.com
+Initial Credits : [100daysofhardware.com](https://100daysofhardware.com)
 
 ---
 
